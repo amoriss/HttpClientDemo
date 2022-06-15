@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fSVT75Mv0IapEO3yT/sHK2CnruAk94wVw3KSrgHEfutZ+7ktwaOgNX66N9k/P8hG9H1XB/BIITMA42LU8r1Sqw==",
+  "dgSpecHash": "L+oWv3P58y/JQf1u84rEoi1+KregXs1l894sriUZiOV4BjtWVX+suD/0CeZeIkJMt2oBcbk7WqZ/zZPfV8Fsig==",
   "success": true,
   "projectFilePath": "C:\\Users\\amori\\repos\\TimCorey\\HttpClientDemoApp\\HttpClientDemo\\HttpClientDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\amori\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\amori\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\amori\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\amori\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
